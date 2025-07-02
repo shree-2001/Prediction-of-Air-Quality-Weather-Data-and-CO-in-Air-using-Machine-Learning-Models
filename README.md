@@ -59,8 +59,9 @@ Visualizations were critical for EDA (Exploratory Data Analysis), model interpre
 #### 🔴 Air Quality
 - Correlation matrix revealed strong relationships with particulate matter
 ![correlation matrix](https://github.com/user-attachments/assets/226a8745-73fb-4cf6-93bf-c4deccc042e6)
-
 - Feature distribution graphs showed skewness and need for scaling
+- ![Distirbution of Temperature](https://github.com/user-attachments/assets/70c04277-cd6e-4080-a11d-c8aa4c9a21f7)
+
 - Model evaluation charts confirmed Random Forest's superior accuracy
 
 #### 🌦 Weather
