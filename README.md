@@ -61,18 +61,22 @@ Visualizations were critical for EDA (Exploratory Data Analysis), model interpre
 ![correlation matrix](https://github.com/user-attachments/assets/226a8745-73fb-4cf6-93bf-c4deccc042e6)
 - Feature distribution graphs showed skewness and need for scaling
 - ![Distirbution of Temperature](https://github.com/user-attachments/assets/70c04277-cd6e-4080-a11d-c8aa4c9a21f7)
-
-- Model evaluation charts confirmed Random Forest's superior accuracy
+- ![Temperature vs Apparent temperature](https://github.com/user-attachments/assets/a4d6cc02-6ed2-411f-b73a-0a71f844b625)
 
 #### 🌦 Weather
 - Heatmaps and scatter plots helped reveal humidity–temperature patterns
-- Line plots captured temperature distribution across time
-- Comparison plots showed Random Forest and Gradient Boosting as top performers
+- ![Correlation heatmap](https://github.com/user-attachments/assets/09c1cf2d-20cd-4f39-ae4e-6e5a54df367f)
+- scatter plots captured temperature distribution across time
+- ![Sactter plot for data value vs Start_date](https://github.com/user-attachments/assets/7032a7fa-bf2e-4f06-bac0-59fb3fd7f239)
 
 #### 🟢 CO₂ Emissions
 - Histograms tracked CO₂ emissions over decades
+  ![Histogram of df$CO2](https://github.com/user-attachments/assets/99e6cd95-cc01-44f4-b977-5fd3a315e7d5)
 - Heatmaps assisted in identifying highly correlated emissions features
-- Evaluation graphs showed Random Forest and Gradient Boosting outperforming SVR and Ridge
+  ![correlation matrix](https://github.com/user-attachments/assets/f7aa3d73-32f2-4d74-894e-3e2eb39a762e)
+- Scatter Plot
+  ![scatter plot df$co2](https://github.com/user-attachments/assets/b86991da-17ee-4127-9682-372fdad02610)
+
 
 ---
 
